@@ -1,3 +1,11 @@
+# Musik
+
+This is a Spotify Clone that was created with ReactJS and uses HTML, CSS, JavaScript, & Bootstrap for an aestetically pleasing front-end experience. This project was done to understand the basics of creating a React app and also to use the free Spotify API.
+
+# Link
+
+The link for this spotify clone is here: [MusiK](https://musik-10ec5.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
